@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="primary" type="color">#9a28a1</item>
+    <item name="primaryDark" type="color">#6f1d7e</item>
+    <item name="textColorPrimary" type="color">@android:color/white</item>
+    <item name="snackbar_background" type="color">#8f8f8f</item>
+    <item name="snackbar_action" type="color">#bf3b30</item>
+    <item name="snackbar_message" type="color">@android:color/black</item>
+</resources>

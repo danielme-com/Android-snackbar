@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Snackbar Demo</string>
+    <string name="toast">toast</string>
+    <string name="simple">simple</string>
+    <string name="action">action</string>
+    <string name="hello">Hello World !!!</string>
+    <string name="style">style</string>
+
+</resources>
